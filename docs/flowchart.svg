@@ -26,7 +26,7 @@
      inkscape:pageshadow="2"
      inkscape:zoom="0.35"
      inkscape:cx="375"
-     inkscape:cy="7262.8571"
+     inkscape:cy="6805.7142"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -132,8 +132,8 @@
        id="rect3010"
        width="642.85724"
        height="257.14584"
-       x="219.99998"
-       y="-6293.3521" />
+       x="214.28571"
+       y="-6296.209" />
     <text
        xml:space="preserve"
        style="font-size:64px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
@@ -148,20 +148,20 @@
     <text
        xml:space="preserve"
        style="font-size:64px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
-       x="282.85715"
-       y="-6136.209"
+       x="277.14285"
+       y="-6139.0659"
        id="text3016"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan3018"
-         x="282.85715"
-         y="-6136.209">rocket_freighter()</tspan></text>
+         x="277.14285"
+         y="-6139.0659">rocket_freighter()</tspan></text>
     <rect
        style="fill:#ff7f2a;fill-opacity:1;stroke:#ffffff;stroke-width:2;stroke-linecap:square;stroke-miterlimit:4;stroke-opacity:0.99559476;stroke-dasharray:48, 2;stroke-dashoffset:0.8"
        id="rect3020"
        width="534.28571"
        height="248.57143"
-       x="-174.28571"
+       x="-191.42857"
        y="-5967.6382" />
     <rect
        style="fill:#ff7f2a;fill-opacity:1;stroke:#ffffff;stroke-width:2;stroke-linecap:square;stroke-miterlimit:4;stroke-opacity:0.99559476;stroke-dasharray:48, 2;stroke-dashoffset:0.8"
@@ -173,14 +173,14 @@
     <text
        xml:space="preserve"
        style="font-size:64px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
-       x="-62.857143"
-       y="-5813.3521"
+       x="-57.142857"
+       y="-5816.209"
        id="text3028"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan3030"
-         x="-62.857143"
-         y="-5813.3521">rocket()</tspan></text>
+         x="-57.142857"
+         y="-5816.209">rocket()</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:64px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
@@ -215,7 +215,7 @@
        inkscape:connector-curvature="0" />
     <path
        style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 277.14286,-6039.0664 c -0.95238,3.8095 -1.39878,7.7827 -2.85715,11.4286 -0.50021,1.2505 -1.90476,1.9047 -2.85714,2.8571 -0.95238,0.9524 -1.90476,1.9048 -2.85714,2.8572 -3.80953,3.8095 -7.61905,7.619 -11.42857,11.4285 -1.90476,1.9048 -3.80953,3.8096 -5.71429,5.7143 -0.95238,0.9524 -1.65246,2.2548 -2.85714,2.8572 -0.85184,0.4259 -1.90476,0 -2.85714,0 -0.95239,0 -2.85715,0.9523 -2.85715,0 0,-0.9524 3.53058,-0.6735 2.85715,0 -7.21687,7.2168 -3.29368,1.0979 -8.57143,2.8571 -5.96208,1.9874 -8.32364,6.5841 -14.28572,8.5714 -0.90351,0.3012 -1.90476,0 -2.85714,0 -2.85714,0.9524 -5.87769,1.5103 -8.57143,2.8572 -2.40935,1.2047 -3.47296,4.2201 -5.71428,5.7143 -10.37845,6.9189 -2.02048,-0.8367 -8.57143,5.7143 -0.95238,0.9523 -1.90476,1.9047 -2.85715,2.8571 -0.95238,0.9524 -1.57939,2.4312 -2.85714,2.8571 -2.23369,0.7446 -15.57056,-0.7861 -17.14286,0 -1.20467,0.6024 -1.65246,2.2548 -2.85714,2.8572 -2.28571,1.1428 -6.28571,-1.1429 -8.57143,0 -7.06115,3.5306 0.98623,2.8571 -5.71428,2.8571"
+       d="m 282.85715,-6041.9235 c -0.95238,3.8095 -1.39878,7.7827 -2.85715,11.4286 -0.50021,1.2505 -1.90476,1.9047 -2.85714,2.8571 -0.95238,0.9524 -1.90476,1.9048 -2.85714,2.8572 -3.80953,3.8095 -7.61905,7.619 -11.42857,11.4285 -1.90476,1.9048 -3.80953,3.8096 -5.71429,5.7143 -0.95238,0.9524 -1.65246,2.2548 -2.85714,2.8572 -0.85184,0.4259 -1.90476,0 -2.85714,0 -0.95239,0 -2.85715,0.9523 -2.85715,0 0,-0.9524 3.53058,-0.6735 2.85715,0 -7.21687,7.2168 -3.29368,1.0979 -8.57143,2.8571 -5.96208,1.9874 -8.32364,6.5841 -14.28572,8.5714 -0.90351,0.3012 -1.90476,0 -2.85714,0 -2.85714,0.9524 -5.87769,1.5103 -8.57143,2.8572 -2.40935,1.2047 -3.47296,4.2201 -5.71428,5.7143 -10.37845,6.9189 -2.02048,-0.8367 -8.57143,5.7143 -0.95238,0.9523 -1.90476,1.9047 -2.85715,2.8571 -0.95238,0.9524 -1.57939,2.4312 -2.85714,2.8571 -2.23369,0.7446 -15.57056,-0.7861 -17.14286,0 -1.20467,0.6024 -1.65246,2.2548 -2.85714,2.8572 -2.28571,1.1428 -6.28571,-1.1429 -8.57143,0 -7.06115,3.5306 0.98623,2.8571 -5.71428,2.8571"
        id="path3046"
        inkscape:connector-curvature="0" />
     <path
@@ -223,5 +223,178 @@
        d="m 840,-6039.0664 c 3.80952,2.8572 14.28571,4.7619 11.42857,8.5714 -2.85714,3.8096 -13.55816,-12.8306 -11.42857,-8.5714 3.01169,6.0234 10.37145,8.8058 14.28571,14.2857 1.10712,1.55 -0.60233,3.9073 0,5.7143 0.85184,2.5555 4.50961,3.3049 5.71429,5.7143 0.42592,0.8518 -0.42592,2.0053 0,2.8571 9.47595,9.476 -1.34687,-2.6937 2.85714,5.7143 0.60234,1.2047 2.11004,1.7365 2.85715,2.8572 1.18128,1.7719 1.67586,3.9423 2.85714,5.7143 0.74711,1.1206 1.90476,1.9047 2.85714,2.8571 2.85714,2.8571 5.71429,5.7143 8.57143,8.5714 0.95238,0.9524 2.11003,1.7365 2.85714,2.8572 2.63655,3.9548 3.07774,7.4737 5.71429,11.4285 2.1978,3.2967 6.37362,5.2748 8.57143,8.5715 1.18128,1.7719 1.67586,3.9423 2.85714,5.7143 0.74711,1.1206 1.90476,1.9047 2.85714,2.8571 0.95238,0.9524 1.65247,2.2548 2.85715,2.8571 0.85183,0.426 1.90476,0 2.85714,0 2.02515,0 16.40414,0.3694 17.14286,0 1.20467,-0.6023 1.65246,-2.2548 2.85714,-2.8571 0.85183,-0.4259 2.00531,0.4259 2.85714,0 1.20468,-0.6023 1.65247,-2.2548 2.85714,-2.8571 0.85184,-0.426 1.90477,0 2.85715,0 0.95238,0 1.90476,0 2.85714,0 4.7619,0 9.52381,0 14.28571,0 5.71429,0 11.42858,0 17.14286,0 0.95238,0 2.85714,-0.9524 2.85714,0 0,0.9523 -1.90476,0 -2.85714,0"
        id="path3048"
        inkscape:connector-curvature="0" />
+    <rect
+       style="fill:#ff7f2a;fill-opacity:1;stroke:#ffffff;stroke-width:2;stroke-linecap:square;stroke-miterlimit:4;stroke-opacity:0.99559476;stroke-dasharray:48, 2;stroke-dashoffset:0.8"
+       id="rect3027"
+       width="431.42856"
+       height="217.14285"
+       x="-434.28571"
+       y="-5641.9233" />
+    <rect
+       style="fill:#ff7f2a;fill-opacity:1;stroke:#ffffff;stroke-width:2.16843224;stroke-linecap:square;stroke-miterlimit:4;stroke-opacity:0.99559476;stroke-dasharray:52.04237377, 2.16843224;stroke-dashoffset:0.8673729"
+       id="rect3029"
+       width="442.68872"
+       height="179.83157"
+       x="200.08421"
+       y="-5610.4106" />
+    <rect
+       style="fill:#ff7f2a;fill-opacity:1;stroke:#ffffff;stroke-width:2.33305693;stroke-linecap:square;stroke-miterlimit:4;stroke-opacity:0.99559476;stroke-dasharray:55.99336236, 2.33305676;stroke-dashoffset:0.93322271"
+       id="rect3031"
+       width="545.38123"
+       height="159.66693"
+       x="1214.4523"
+       y="-5601.7573" />
+    <text
+       xml:space="preserve"
+       style="font-size:64px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="-492.53049"
+       y="-5491.3184"
+       id="text3033"
+       sodipodi:linespacing="125%"
+       transform="matrix(0.99985939,0.01676881,-0.01676881,0.99985939,0,0)"><tspan
+         sodipodi:role="line"
+         id="tspan3035"
+         x="-492.53049"
+         y="-5491.3184">blackhole()</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:64px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="1005.7143"
+       y="-5381.9233"
+       id="text3037"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3039"
+         x="1005.7143"
+         y="-5381.9233" /></text>
+    <text
+       xml:space="preserve"
+       style="font-size:64px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="1222.8572"
+       y="-5513.3516"
+       id="text3041"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3043"
+         x="1222.8572"
+         y="-5513.3516">tractor</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:73.14077759px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="1336.7446"
+       y="-5951.0454"
+       id="text3045"
+       sodipodi:linespacing="125%"
+       transform="scale(1.0804976,0.92549951)"><tspan
+         sodipodi:role="line"
+         id="tspan3047"
+         x="1336.7446"
+         y="-5951.0454">beam()</tspan></text>
+    <rect
+       style="fill:#ff7f2a;fill-opacity:1;stroke:#ffffff;stroke-width:2.73491764;stroke-linecap:square;stroke-miterlimit:4;stroke-opacity:0.99559476;stroke-dasharray:65.63802855, 2.73491786;stroke-dashoffset:1.09396715"
+       id="rect3049"
+       width="393.55081"
+       height="210.69365"
+       x="768.9389"
+       y="-5621.5566" />
+    <text
+       xml:space="preserve"
+       style="font-size:67.28520966px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="300.20123"
+       y="-5069.6782"
+       id="text3051"
+       sodipodi:linespacing="125%"
+       transform="scale(0.92352612,1.0828064)"><tspan
+         sodipodi:role="line"
+         id="tspan3053"
+         x="300.20123"
+         y="-5069.6782">safe pass()</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:64px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="814.28571"
+       y="-5499.0664"
+       id="text3055"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3057"
+         x="814.28571"
+         y="-5499.0664">safe</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:64px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="948.57141"
+       y="-5501.9233"
+       id="text3059"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3061"
+         x="948.57141"
+         y="-5501.9233">pass()</tspan></text>
+    <rect
+       style="fill:#ff7f2a;fill-opacity:1;stroke:#ffffff;stroke-width:2;stroke-linecap:square;stroke-miterlimit:4;stroke-opacity:0.99559476;stroke-dasharray:48, 2;stroke-dashoffset:0.8"
+       id="rect3063"
+       width="451.42856"
+       height="182.85715"
+       x="-162.85715"
+       y="-5267.6382" />
+    <rect
+       style="fill:#ff7f2a;fill-opacity:1;stroke:#ffffff;stroke-width:2;stroke-linecap:square;stroke-miterlimit:4;stroke-opacity:0.99559476;stroke-dasharray:48, 2;stroke-dashoffset:0.8"
+       id="rect3065"
+       width="517.14288"
+       height="197.14285"
+       x="868.57141"
+       y="-5279.0664" />
+    <text
+       xml:space="preserve"
+       style="font-size:64px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="-60"
+       y="-5147.6377"
+       id="text3067"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3069"
+         x="-60"
+         y="-5147.6377">Mars()</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:64px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="991.42859"
+       y="-5159.0664"
+       id="text3071"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3073"
+         x="991.42859"
+         y="-5159.0664">Mars()</tspan></text>
+    <rect
+       style="fill:#ff7f2a;fill-opacity:1;stroke:#ffffff;stroke-width:2.09299397;stroke-linecap:square;stroke-miterlimit:4;stroke-opacity:0.99559476;stroke-dasharray:50.23185824, 2.09299409;stroke-dashoffset:0.83719764"
+       id="rect3075"
+       width="605.62128"
+       height="188.47844"
+       x="-2034.2393"
+       y="-6890.4487" />
+    <text
+       xml:space="preserve"
+       style="font-size:64px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="-2000"
+       y="-6816.209"
+       id="text3077"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3079"
+         x="-2000"
+         y="-6816.209">travel to mars</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:64px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="-1902.8571"
+       y="-6733.3521"
+       id="text3081"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3083"
+         x="-1902.8571"
+         y="-6733.3521">functions</tspan></text>
   </g>
 </svg>
