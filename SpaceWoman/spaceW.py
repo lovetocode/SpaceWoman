@@ -44,7 +44,32 @@ def freighter():
 	print("freighter.\n")
 	print("There will be many obstacles for you to over come.")
 	
-intro()
+# String->String
+# a black is an obsticle for the player in the game
+# def black_hole(): string
+# tests
+# template
+def black_hole():
+	print("oh, no you have hit a black hole.")
+	print("You are being quick.y sucked into it")
+	print("what do you want to do:")
+	print("Thrusters back, left, right, forward")
+	direction = input("<")
+	if direction == "left":
+		print("You have gone in the wrong direction")
+		print("You were sucked into the black hole")
+		print("Game over")
+	elif direction == "right": 
+		print("Yes you have made a good choice and are", end="")
+		print("are on your way back to the moon")
+	elif direction == "back":
+		print("Can't go backward here")
+		print("game over")
+	elif direction == "forward":
+		print("You are back on your way to the moon")
+	else: print("error")
+	
+black_hole()
 
 		
 		
