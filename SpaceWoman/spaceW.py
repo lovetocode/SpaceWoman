@@ -68,6 +68,15 @@ def black_hole():
 	elif direction == "forward":
 		print("You are back on your way to the moon")
 	else: print("error")
+
+# String -> String
+# a tractor beam
+# def Tractor_beam((): string
+# tests
+# template
+def black_hole():
+	print("Something is pulling you toward a planet You will not survive if you keep")
+	print(" going toward the planet To bad you loose")
 	
 black_hole()
 
