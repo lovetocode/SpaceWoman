@@ -8,8 +8,6 @@ def intro():
 	print("An amateur detective and space traveler")
 	print("Your first mission is to travel to mars")
 	print("Do you want to take a rocket or spacefreighter\n")
-	choice = input("Rocket or Freighter?\n>")
-	rocket_freighter(choice)
 	# What does Hanna need to do on mars?
 
 # string->String
@@ -77,8 +75,28 @@ def black_hole():
 def black_hole():
 	print("Something is pulling you toward a planet You will not survive if you keep")
 	print(" going toward the planet To bad you loose")
-	
-black_hole()
 
-		
-		
+#  None -> string
+# tells the player that they have made a safe passage to mars
+# def safePass(): s
+# tests
+# templates
+def safePass():
+	print("Oh, no you have made a safe passage to mars , unfortunatly you win the game.")
+	print("next time figure out how to lose. Thats an order")
+	
+# None -> string
+# tells the user he/she is on mars
+# def mars(): string
+# tests
+# template
+def mars():
+	print("I still need to write one more function. If you have made it this far in the game thank you.")
+	print("If you have not made it this far in the game, I guess you wont be reading this.")
+	print("good morning")
+
+intro()
+choice = input(">")
+rocket_freighter(choice)
+	
+	
