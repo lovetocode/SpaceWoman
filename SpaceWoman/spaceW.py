@@ -1,14 +1,14 @@
+import random
+
 # None->String
 # displayes the intro to spacewoman
 # def intro() "welcome"
-# given None, expects "Hello and welcome to SpaceWoman
+# given None, expects strings
 def intro():
-	print("------------SPACEwOMAN VERSION ALPHA O.1---------------\n")
-	print("You are about to embark on the adventures of Hanna Zoes")
-	print("An amateur detective and space traveler")
-	print("Your first mission is to travel to mars")
-	print("Do you want to take a rocket or spacefreighter\n")
-	# What does Hanna need to do on mars?
+	print("------------SPACEwOMAN VERSION ALPHA 2.0---------------\n")
+    print("You are Hanna Zoes traveling in computer city in 1950. You are about to go on ")
+    print("a mediocure adventure writen by a subpar programmer. Play this game ")
+    print("at the risk of severe bordom.")
 
 # string->String
 # determines the players choice of rocket spacefreighter
@@ -72,7 +72,7 @@ def black_hole():
 # def Tractor_beam((): string
 # tests
 # template
-def black_hole():
+def tractorBeam():
 	print("Something is pulling you toward a planet You will not survive if you keep")
 	print(" going toward the planet To bad you loose")
 
@@ -95,8 +95,26 @@ def mars():
 	print("If you have not made it this far in the game, I guess you wont be reading this.")
 	print("good morning")
 
-intro()
-choice = input(">")
-rocket_freighter(choice)
+while True:
+    intro()
+    choice = input(">")
+    rocket_freighter(choice)
+    obsticle = random.randint(0, 2)
+    if obsticle == 1:
+	    safePass()
+    elif obsticle == 2:
+	    tractorBeam()
+    elif obsticle == 0:
+	    black_hole()
+    else: 
+        print("you should not be here")
+    
+    print("Do you want to play again?")
+    
+    
+	
+   
+
+
 	
 	
